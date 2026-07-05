@@ -10,7 +10,7 @@
 		"nodejs_compat"
 	],
 	"vars": {
-		"DOMAINS": "cybercoderbd.com",
+		"DOMAINS": "inbox.cybercoderbd.com",
 		"EMAIL_ADDRESSES": []
 	},
 	"send_email": [
