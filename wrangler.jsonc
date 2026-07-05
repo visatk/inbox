@@ -10,13 +10,12 @@
 		"nodejs_compat"
 	],
 	"vars": {
-		"DOMAINS": "inbox.cybercoderbd.com",
+		"DOMAINS": "cybercoderbd.com",
 		"EMAIL_ADDRESSES": []
 	},
 	"send_email": [
 		{
 			"name": "EMAIL",
-			"remote": true
 		}
 	],
 	"r2_buckets": [
