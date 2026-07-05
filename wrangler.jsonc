@@ -22,8 +22,8 @@
 	"r2_buckets": [
 		{
 			"binding": "BUCKET",
-			"bucket_name": "agentic-inbox",
-			"preview_bucket_name": "agentic-inbox"
+			"bucket_name": "inbox",
+			"preview_bucket_name": "inbox"
 		}
 	],
 	"ai": {
