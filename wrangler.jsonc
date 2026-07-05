@@ -11,7 +11,7 @@
 	],
 	"vars": {
 		"DOMAINS": "cybercoderbd.com",
-		"EMAIL_ADDRESSES": [support@cybercoderbd.com]
+		"EMAIL_ADDRESSES": []
 	},
 	"send_email": [
 		{
